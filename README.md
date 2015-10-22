@@ -13,4 +13,5 @@ https://netbeans.org/kb/docs/javaee/cdi-inject_pt_BR.html
 ExJSF/Primefaces
 https://computacaoanotada.wordpress.com/2011/07/15/aplicacao-ejb-3-1-jsf2-primefaces-3-0-maven-parte-1/
 
+- Criado no wildfly as filas e os topicos
 
