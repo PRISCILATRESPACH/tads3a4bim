@@ -16,3 +16,9 @@ https://computacaoanotada.wordpress.com/2011/07/15/aplicacao-ejb-3-1-jsf2-primef
 - Criado no wildfly as filas e os topicos
 - Criado as classes AlunoServletJMS, Aluno, AlunoQueueMDB.
 - Copiado o endereço do Wildlfy  = java:jboss/exported/jms/queue/alunoQueue e colado na classe AlunoServletJMS(Resource(mappedName = "java:jboss/exported/jms/queue/alunoQueue")
+
+--------------------
+Projeto CDI
+
+Seguindo o passo https://netbeans.org/kb/docs/javaee/cdi-inject_pt_BR.html
+- 
